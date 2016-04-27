@@ -7,3 +7,5 @@
 # git config --global user.email "!!"
 
 #
+m1 <- lm(mpg ~ wt, data = mtcars)
+print(m1)
