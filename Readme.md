@@ -9,3 +9,6 @@ str(mtcars)
 ```
 
 There we go.
+
+Now adding some more text to see how RStudio Git wondow updates.
+
