@@ -12,3 +12,4 @@ There we go.
 
 Now adding some more text to see how RStudio Git wondow updates.
 
+So now we make more changes and hit 'stage'.
