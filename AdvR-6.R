@@ -9,3 +9,8 @@
 #
 m1 <- lm(mpg ~ wt, data = mtcars)
 print(m1)
+
+str(mtcars)
+
+# This is different from the version in master.
+# Now fixed
