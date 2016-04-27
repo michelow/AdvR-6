@@ -13,3 +13,7 @@ There we go.
 Now adding some more text to see how RStudio Git wondow updates.
 
 So now we make more changes and hit 'stage'.
+
+But now we do more changes without clicking stage.
+
+I think we should nnow be in the develop branch that we just created.
